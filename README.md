@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Kamila!
 
-<!--
-**binda7/binda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am studying electromobility at the Warsaw University of Technology Electromobility Faculty. During my studies I became interested in python programming. So I decited to learning more about it. In private I am interested in good cinema, gaming (mostly in The Sims Game Series), economics and politics. I am good at solving problems and logical thinking. My English level is between B2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python, SQL, MatLab
+
+## ⚡️Finished projects
+<p>Calculator</p><br/>
+
+
+## My current activities
+👩‍💻 I'm currently working some Machine Learning Projects
+
+🧠 I'm currently learning Python, Machine Learing and JavaScript.
