@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am studying electromobility at the Warsaw University of Technology Electromobility Faculty. During my studies I became interested in python programming. So I decited to learning more about it. In private I am interested in good cinema, gaming (mostly in The Sims Game Series), economics and politics. I am good at solving problems and logical thinking. My English level is between B2.
+I am studying Electromobility Faculty at the Warsaw University of Technology. During my studies I became interested in python programming. So I decited to learning more about it. In private I am interested in good cinema, gaming (mostly in The Sims Game Series), economics and politics. I am good at solving problems and logical thinking. My English level is between B2.
 
 ## 🛠 Skills
 Python, SQL, MatLab
