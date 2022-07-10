@@ -8,7 +8,7 @@ I am studying Electromobility Faculty at the Warsaw University of Technology. Du
 Python, SQL, MatLab
 
 ## ⚡️Finished projects
-<p>Calculator</p><br/>
+<p>Simple calculator</p><br/>
 
 
 ## My current activities
