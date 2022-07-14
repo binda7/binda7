@@ -9,6 +9,7 @@ Python, SQL, MatLab
 
 ## ⚡️Finished projects
 <p>Simple calculator</p><br/>
+<p>Classfication Cats&Dogs&PizzaORnot</p><br/>
 
 
 ## My current activities
