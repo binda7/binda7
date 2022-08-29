@@ -15,4 +15,4 @@ Python, SQL, MatLab
 ## My current activities
 👩‍💻 I'm currently working some Machine Learning Projects
 
-🧠 I'm currently learning Python, Machine Learing and JavaScript.
+🧠 I'm currently learning Python, Machine Learing, Golang and JavaScript
