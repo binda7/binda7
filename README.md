@@ -10,9 +10,10 @@ Python, SQL, MatLab
 ## ⚡️Finished projects
 <p>Simple calculator</p><br/>
 <p>Classfication Cats&Dogs&PizzaORnot</p><br/>
+<p>Cardiac Semantic Segmentation</p><br/>
 
 
 ## My current activities
 👩‍💻 I'm currently working some Machine Learning Projects
 
-🧠 I'm currently learning Python, Machine Learing, Golang and JavaScript
+🧠 I'm currently learning Python, Machine Learing, Golang.
